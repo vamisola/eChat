@@ -1,11 +1,11 @@
 {
-    "name": "echat",
-    "version": "0.0.1",
-    "description": "Real time chat app",
-    "dependencies": {
-        "express": "*",
-        "socket.io": "*",
-        "jade": "*"
-    },
-    "author" :"V.C."
+  "name": "echat",
+  "version": "0.0.1",
+  "description": "Real time chat app",
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "socket.io": "^1.5.0"
+  },
+  "author": "V.C."
 }
